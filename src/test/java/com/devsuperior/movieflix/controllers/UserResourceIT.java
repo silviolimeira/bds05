@@ -20,7 +20,7 @@ import com.devsuperior.movieflix.tests.TokenUtil;
 @SpringBootTest
 @AutoConfigureMockMvc
 @Transactional
-public class UserControllerIT {
+public class UserResourceIT {
 
 	@Autowired
 	private MockMvc mockMvc;
